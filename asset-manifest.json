@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zelda/static/css/main.9c80810c.css",
+    "main.js": "/zelda/static/js/main.5ce369df.js",
+    "index.html": "/zelda/index.html",
+    "main.9c80810c.css.map": "/zelda/static/css/main.9c80810c.css.map",
+    "main.5ce369df.js.map": "/zelda/static/js/main.5ce369df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c80810c.css",
+    "static/js/main.5ce369df.js"
+  ]
+}
